@@ -1,0 +1,39 @@
+@media only screen and (min-width: 992px) and (max-width:1250px){
+    /* First Banner */
+    .banner-content-heading{
+        margin-top: 150px;
+    }
+    .banner-box .small-heading h4{
+        font-size: 16px;
+    }
+    .banner-box .normal-heading h3{
+        font-size: 22px;
+    }
+    .banner-box .banner-content-para{
+        margin-top: 5px;
+    }
+
+    section.second-banner .banner-content-box{
+        width: 60%;
+        margin-left: 90px;
+        padding: 70px 50px;
+    }
+    section.second-banner.third .second-banner-para p{
+        font-size: 17px;
+    }
+
+    section.second-banner.fourth{
+        padding: 5px;
+    }
+
+    section.second-banner.fourth .banner-content-box{
+        width: 60%;
+        height: 100%;
+        padding: 45px;
+    }
+
+    .fifth-banner-text-wrapper{
+        width: 70%;
+        padding: 20px;
+    }
+}
